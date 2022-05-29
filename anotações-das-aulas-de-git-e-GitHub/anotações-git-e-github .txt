@@ -1,0 +1,45 @@
+#### Configuração inicial do git: 
+
+##### Criar um autor para o commit
+
+"**git confg --global user.email** _*e-mail do usuario aqui_"
+"**git confg --global user.name** _*nome de usuario aqui_"
+_(preferencialmente usar o e-mail e nome de usuário pré configurado no GitHub para evitar conflitos futuro)_
+
+#### Git não possui interface gráfica ele é um terminal que nos auxilia na criação e desenvolvimento de projetos através de comandos e linhas de códigos.
+
+"**git init**" _(é criado uma pagina oculta* gerencial do git onde fica todo o código com a função de gerenciar e versionar) *para visualizar a pagina git no terminal é preciso usar o comando "**ls -a**"_
+
+"**git clone**" _(baixa uma copia do repositório na maquina local)_
+
+"**git add**" _(adiciona as mudanças do projeto que serão armazenadas em um commit)_
+
+"**git commit**"
+
+"**git status**"
+
+"**git push**"
+
+_(todos os comandos poderão possuir complementos que são chamados de flags, "**-a**" é um exemplo de flags)_
+
+#### Comandos basicos para navegação; 
+
+"**cd**" (_chance directory, possibilita que o usuario navegue para dentro de uma pasta. Precisa ser especificado o nome da pasta junto ao comando)_
+
+"**cd ..**" _(possibilita que o usuario volte para a pagina anterior)_ 
+
+"**cls**" "**clear**" _(limpa o terminal)_
+
+"**dir/ls**" _(lista as pastas e diretórios disponíveis no local)_ 
+
+"**mkdir**" _(criar uma pasta)_
+
+"**del**" _(deleta apenas arquivos não a pasta)_
+
+"**rmdir**" _(deleta pasta e todos os arquivos do diretório)_
+
+###### Site Github (https://github.com/).
+
+###### download git (https://git-scm.com/downloads). 
+
+###### download  Typora (https://typora.io/).
